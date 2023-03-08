@@ -53,7 +53,7 @@ body {
   flex-direction: column;
   position: relative;
   z-index: 1;
-  width: 100%;
+  width: 70%;
   border-radius: 10px;
   box-shadow: 1px 1px;
 }
